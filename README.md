@@ -107,8 +107,3 @@ The project explores an end-to-end edge AI pipeline:
 
 ---
 
-<p align="center">
-
-🎙️ <b>Speech → AI → Edge</b> ⚡
-
-</p>
